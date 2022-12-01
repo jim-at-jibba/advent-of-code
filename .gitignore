@@ -1,0 +1,9 @@
+.vscode/*
+input*.txt
+!scripts/skeleton/tmpls/input.txt
+prompt.md
+prompt.txt
+.DS_Store
+
+// ignore files that are prefixed with an underscore
+_*
